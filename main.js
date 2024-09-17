@@ -21,7 +21,7 @@ console.log (caracterAleatorio);
 
 
 }
-contrasena.value = Contraseña
+('contrasena.value = password')
 }
 
 
