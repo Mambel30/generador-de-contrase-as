@@ -21,9 +21,10 @@ console.log (caracterAleatorio);
 
 
 }
+console.log('password generada;' + password);
+contrasena.value = password;
 
 }
-contrasena.value = password
 
 
 
