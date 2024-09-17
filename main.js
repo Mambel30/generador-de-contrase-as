@@ -21,7 +21,7 @@ console.log (caracterAleatorio);
 
 
 }
-contrasena.value = password
+contrasena.value = contrasena
 }
 
 
