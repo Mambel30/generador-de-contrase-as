@@ -4,7 +4,7 @@ let boton = document.getElementById ('contrasena');
 
 const cadenaCaracteres = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
 
-function generar (){
+function generar(){
 
 let numeroDigitado = parseInt (cantidad.value);
 
