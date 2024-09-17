@@ -48,11 +48,7 @@ function validar(password){
 const resultadoValidacion = LaContrasenaesSegura (password);
 if (resultadoValidacion.esSegura)
     alert ("La contraseña es segura.");
-}
-function validar (password){
-    const resultadoValidacion = LaContrasenanoesSegura (password);
-elif (resultadoValidacion.nosegura)
-alert ("La Contraseña no es segura");
+
  }
  
     let mensaje = "La contraseña generada no es segura. Necesita";
