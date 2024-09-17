@@ -69,11 +69,11 @@ if (resultadoValidacion.esSegura)
 
 
 
-function borrar() {
+function limpiar() {
     contrasena.value = ''; 
     cantidad.value = '';   
 }
 
 
 boton.addEventListener('click', generar);
-botonLimpiar.addEventListener('click', borrar);
+botonLimpiar.addEventListener('click', limpiar);
